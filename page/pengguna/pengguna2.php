@@ -17,7 +17,7 @@
       <thead>
                               <tr>
             <th>No</th>
-            <th>NIK</th>
+            <th>Ic Number</th>
             <th>Name</th>
             
             <th>Telephone</th>

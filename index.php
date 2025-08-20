@@ -1,4 +1,3 @@
-
 <?php
 mysqli_report (MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 	error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
@@ -13,16 +12,7 @@ mysqli_report (MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
     header("location:login.php");
   }
 
-
-
-
-
-
-
 	?>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 

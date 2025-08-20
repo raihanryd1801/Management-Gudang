@@ -3,7 +3,7 @@
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h6 class="m-0 font-weight-bold text-primary">Tambah Satuan Barang</h6>
+              <h6 class="m-0 font-weight-bold text-primary">Add Unit Item</h6>
             </div>
             <div class="card-body">
               <div class="table-responsive">
@@ -14,7 +14,7 @@
 							<form method="POST" enctype="multipart/form-data">
 							
 
-							<label for="">Satuan Barang</label>
+							<label for="">Unit Item</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="text" name="satuan" class="form-control" />	 

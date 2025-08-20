@@ -14,7 +14,7 @@
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h6 class="m-0 font-weight-bold text-primary">Edit Jenis Barang</h6>
+              <h6 class="m-0 font-weight-bold text-primary">Edit Type of Item</h6>
             </div>
             <div class="card-body">
               <div class="table-responsive">
@@ -24,7 +24,7 @@
 
 							<form method="POST" enctype="multipart/form-data">
 							
-							<label for="">Jenis Barang</label>
+							<label for="">Type of Item</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="text" name="jenis_barang" value="<?php echo $tampil['jenis_barang']; ?>" class="form-control" />
@@ -52,7 +52,7 @@
 									?>
 									
 										<script type="text/javascript">
-										alert("Data Berhasil Diubah");
+										alert("Data Successfully Altered");
 										window.location.href="?page=jenisbarang";
 										</script>
 										

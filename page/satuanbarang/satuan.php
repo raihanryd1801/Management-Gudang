@@ -49,7 +49,7 @@
 
 										   </tbody>
                                 </table>
-								<a href="?page=satuanbarang&aksi=tambahsatuan" class="btn btn-primary" >Tambah Satuan Barang</a>
+								<a href="?page=satuanbarang&aksi=tambahsatuan" class="btn btn-primary" >Add Unit of Item</a>
                   </tbody>
                 </table>
               </div>

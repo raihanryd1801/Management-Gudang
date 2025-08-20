@@ -129,7 +129,7 @@
 									?>
 									
 										<script type="text/javascript">
-										alert("Data Berhasil Diubah");
+										alert("Data Successfully Altered");
 										window.location.href="?page=pengguna";
 										</script>
 										
@@ -146,7 +146,7 @@
 									?>
 									
 										<script type="text/javascript">
-										alert("Data Berhasil Diubah");
+										alert("Data Successfully Altered");
 										window.location.href="?page=pengguna";
 										</script>
 										

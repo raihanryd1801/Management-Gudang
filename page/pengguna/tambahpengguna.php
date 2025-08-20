@@ -3,7 +3,7 @@
           <!-- DataTales Example -->
           <div class="card shadow mb-4">
             <div class="card-header py-3">
-              <h6 class="m-0 font-weight-bold text-primary">Tambah User</h6>
+              <h6 class="m-0 font-weight-bold text-primary">Add New User</h6>
             </div>
             <div class="card-body">
               <div class="table-responsive">
@@ -13,7 +13,7 @@
 							
 							<form method="POST" enctype="multipart/form-data">
 							
-							<label for="">NIK</label>
+							<label for="">IC Number</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="number" name="nik" class="form-control" />	 
@@ -22,7 +22,7 @@
 							
 						
 							
-							<label for="">Nama</label>
+							<label for="">Name</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="text" name="nama" class="form-control" />	 
@@ -32,7 +32,7 @@
 					
 							
 							
-							<label for="">Telepon</label>
+							<label for="">Telephone</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="text" name="telepon" class="form-control" />	 
@@ -61,16 +61,15 @@
 							 <div class="form-group">
                                <div class="form-line">
                                     <select name="level" class="form-control show-tick">
-                                        <option value="">-- Pilih Level --</option>
-										 <option value="superadmin">Super Admin</option>
+                                        <option value="">-- Select the Level --</option>
                                         <option value="admin">Admin</option>
-                                        <option value="petugas">Petugas</option>
+                                        <option value="petugas">Employee</option>
                      
                                     </select>
                             </div>
 							</div>
 							
-							<label for="">Foto</label>
+							<label for="">Picture</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="file" name="foto" class="form-control" />
